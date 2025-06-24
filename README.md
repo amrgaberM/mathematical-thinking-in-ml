@@ -11,7 +11,7 @@ This repository presents a structured and in-depth overview of the mathematical 
 | `01_math_fundamentals/` | Core pre-calculus and calculus concepts including exponents, logarithms, limits, derivatives, and integrals—essential for understanding learning rates, optimization, and model dynamics. |
 | `02_probability_statistics/` | Key topics in probability theory and statistics such as probability distributions, conditional probability, statistical inference, and data variability. |
 | `03_linear_algebra/` | Foundational linear algebra topics including vectors, matrices, transformations, and eigenvalues—used in dimensionality reduction, optimization, and neural network architecture. |
-| `04_ml_math_applied/` | Applied notebooks that show how mathematical concepts are embedded in machine learning algorithms, covering gradient descent, loss functions, regularization, and evaluation techniques. |
+| `04_math_in_machine_learning/` | Applied notebooks that show how mathematical concepts are embedded in machine learning algorithms, covering gradient descent, loss functions, regularization, and evaluation techniques. |
 | `05_applied_projects/` | A dedicated section for complete, real-world ML projects that integrate math-driven reasoning and model implementation. *(Additional projects will be added progressively.)* |
 
 ---
