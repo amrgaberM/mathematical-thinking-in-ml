@@ -848,6 +848,4 @@ class ComputationGraph:
         
         return y
     
-    def backward(self, x):
-        """Backward pass using chain rule"""
-        # dy/dy = 
+  
