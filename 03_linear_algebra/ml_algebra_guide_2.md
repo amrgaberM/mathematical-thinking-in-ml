@@ -709,4 +709,4 @@ class OptimizationAlgorithms:
         print("-" * 60)
         for name, result in results.items():
             print(f"{name}:")
-            print(f"  Final point: [{result['final
+           
