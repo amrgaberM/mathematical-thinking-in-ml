@@ -1,4 +1,4 @@
-# Mathematical Foundations for ML - Part 2
+
 
 ## Optimization Theory (Continued)
 
